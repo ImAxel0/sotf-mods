@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "UpdatesChecker",
+  "author": "Im-_-Axel",
+  "version": "1.0.3",
+  "description": "Stay up to date with the latest mod updates directly from the main menu",
+  "gameVersion": "1.0.0",
+  "type": "Mod",
+  "url": "..."
+}
