@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "TankMod",
+  "author": "Im-_-Axel",
+  "version": "1.0.0",
+  "description": "Drive a tank and kill cannibals around",
+  "gameVersion": "1.0.0",
+  "type": "Mod",
+  "url": "..."
+}
