@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "HotkeyGUI",
+  "author": "Im-_-Axel",
+  "version": "1.0.1",
+  "description": "Let assign up to 36 items to a visible hotkey panel",
+  "gameVersion": "1.0.0",
+  "url": "...",
+  "type": "Mod"
+}
