@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "TeleportMap",
+  "author": "Im-_-Axel",
+  "version": "1.0.1",
+  "description": "Teleport around using an interactive map that also shows player position",
+  "gameVersion": "1.0.0",
+  "type": "Mod",
+  "url": "..."
+}
