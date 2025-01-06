@@ -1,0 +1,9 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "PlaneMod",
+  "author": "Im-_-Axel",
+  "version": "1.1.0",
+  "description": "Add an usable plane to the game",
+  "gameVersion": "1.0.0",
+  "url": "..."
+}
