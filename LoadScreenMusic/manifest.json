@@ -1,0 +1,9 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "LoadScreenMusic",
+  "author": "Im-_-Axel",
+  "version": "1.2.1",
+  "description": "Play an audio file during loading screen and can change the menu music",
+  "gameVersion": "1.0.0",
+  "url": "..."
+}
