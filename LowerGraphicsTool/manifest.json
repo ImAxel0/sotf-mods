@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "LowerGraphicsTool",
+  "author": "Im-_-Axel",
+  "version": "1.0.1",
+  "description": "Let go beyond minimum graphical settings to play on lower spec PC's.",
+  "gameVersion": "1.0.0",
+  "url": "...",
+  "type": "Mod"
+}
