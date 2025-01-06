@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "AmmoUi",
+  "author": "Im-_-Axel",
+  "version": "1.1.2",
+  "description": "Display the remaining and total ammo of the currently wielded weapon",
+  "gameVersion": "1.0.0",
+  "type": "Mod",
+  "url": "..."
+}
