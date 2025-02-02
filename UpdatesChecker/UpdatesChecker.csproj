@@ -30,9 +30,6 @@
       <Reference Include="Sons">
         <HintPath>$(GameDir)\_RedLoader\Game\Sons.dll</HintPath>
       </Reference>
-      <Reference Include="SonsGameManager">
-        <HintPath>..\..\..\Program Files (x86)\Steam\steamapps\common\Sons Of The Forest\_RedLoader\CoreMods\SonsGameManager.dll</HintPath>
-      </Reference>
       <Reference Include="SonsSdk">
         <HintPath>$(GameDir)\_RedLoader\net6\SonsSdk.dll</HintPath>
       </Reference>

@@ -1,4 +1,5 @@
 ﻿using Alt.Json;
+using System.Text.Json.Serialization;
 
 namespace UpdatesChecker;
 
@@ -61,13 +62,10 @@ public class Mod
     [JsonProperty("favorites")]
     public int Favorites { get; set; }
 
-    [JsonProperty("total_downloads")]
-    public int TotalDownloads { get; set; }
-
-    [JsonProperty("last_week_downloads")]
+    [JsonProperty("lastWeekDownloads")]
     public int LastWeekDownloads { get; set; }
 
-    [JsonProperty("time_ago")]
+    [JsonProperty("lastReleasedAt")]
     public string TimeAgo { get; set; }
 }
 
@@ -94,7 +92,10 @@ public class Meta
 
 public class Root
 {
-    [JsonProperty("mods")]
+    [JsonProperty("status")]
+    public bool Status { get; set; }
+
+    [JsonProperty("data")]
     public List<Mod> Mods { get; set; }
 
     [JsonProperty("meta")]
